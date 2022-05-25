@@ -6,5 +6,9 @@ cin>>a>>b;
 int sum;
 sum=a+b;
 cout<<sum<<endl;
+<<<<<<< HEAD
+cout<<"hello India"<<endl;
+=======
 cout<<"hello"<<endl;
+>>>>>>> feature
 }
