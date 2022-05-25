@@ -6,4 +6,5 @@ cin>>a>>b;
 int sum;
 sum=a+b;
 cout<<sum<<endl;
+cout<<"hello India"<<endl;
 }
