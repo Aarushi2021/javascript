@@ -1,0 +1,23 @@
+// Online Javascript Editor for free
+// Write, Edit and Run your Javascript code using JS Online Compiler
+
+function Book(name,author,pages){
+    this.name=name;
+    this.author=author;
+    this.pages=pages;
+    this.read= function(){
+        if(1){
+            this.read="yes";
+        }
+        else{
+            this.read="no";
+        }
+    }
+    info= function(){
+        console.log( "Book name is "+name+" author is "+author+" numver of pages "+pages+ read+ " I read the book ");
+    }
+    
+    let book1=new Book("i love aadi","Aarushi","infinite",1);
+     book1.info();
+    
+}
