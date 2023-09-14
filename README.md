@@ -1,1 +1,1 @@
-# open-source
+Learn Java script with me
